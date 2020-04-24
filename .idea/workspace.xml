@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a689b52-4326-4a72-85ca-99fb25d4b109" name="Default Changelist" comment="" />
+    <list default="true" id="2a689b52-4326-4a72-85ca-99fb25d4b109" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.styleci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.styleci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PropertyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PropertyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/property/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/property/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/property/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/property/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/property/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/property/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/property/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/property/show.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +21,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -111,6 +123,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1asSVGGCcIwEPYmbht3RKERCJZS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -118,9 +133,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Murilo\Desktop\developer\public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -140,7 +161,7 @@
       <updated>1587522829431</updated>
       <workItem from="1587522832824" duration="1931000" />
       <workItem from="1587644668306" duration="4265000" />
-      <workItem from="1587743948967" duration="8321000" />
+      <workItem from="1587743948967" duration="11795000" />
     </task>
     <servers />
   </component>
@@ -156,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587650946846" />
-    <state x="1230" y="456" key="NewPhpFileDialog" timestamp="1587749287884">
+    <state x="1230" y="456" key="NewPhpFileDialog" timestamp="1587753055885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1230" y="456" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587749287884" />
+    <state x="1230" y="456" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587753055885" />
     <state x="898" y="166" key="SettingsEditor" timestamp="1587646794946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

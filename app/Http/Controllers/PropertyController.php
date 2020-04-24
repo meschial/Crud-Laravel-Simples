@@ -19,7 +19,7 @@ class PropertyController extends Controller
         //$properts = DB::select("select * from properts");
         $properts = Property::all();
 
-        return view('property/index')->with('property', $properts);
+        return view('property.index')->with('property', $properts);
     }
 
     public function show($name)
@@ -27,7 +27,7 @@ class PropertyController extends Controller
        //$property = DB::select("select * from properts where name = ?", [$name]);
         $property = Property::where('name', $name)->get();
        if (!empty($property)){
-           return view('property/show')->with('property', $property);
+           return view('property.show')->with('property', $property);
        }else{
            return redirect()->action('PropertyController@index');
        }
@@ -35,7 +35,7 @@ class PropertyController extends Controller
 
     public function create()
     {
-        return view('property/create');
+        return view('property.create');
     }
 
     public function store(Request $request)
@@ -68,7 +68,7 @@ class PropertyController extends Controller
         //$property = DB::select("select * from properts where name = ?", [$name]);
         $property = Property::where('name', $name)->get();
         if (!empty($property)){
-            return view('property/edit')->with('property', $property);
+            return view('property.edit')->with('property', $property);
         }else{
             return redirect()->action('PropertyController@index');
         }
