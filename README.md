@@ -1,4 +1,6 @@
 Crud com laravel, fazendo o create, show, update e delete. Usando url amigavel
+
+
 <------Banco de dados usado -------->
 
 CREATE TABLE `properts` (
